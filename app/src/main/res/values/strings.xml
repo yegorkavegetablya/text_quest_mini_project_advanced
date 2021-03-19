@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">text_quest_mini_project_advanced</string>
+    <string name="app_name">Текстовый квест халтурщика</string>
 
     <string name="exit_to_menu_button_text">ВЫЙТИ В МЕНЮ</string>
     <string name="exit_button_text">ВЫЙТИ</string>
